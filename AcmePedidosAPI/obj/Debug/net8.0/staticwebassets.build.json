@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BiJ9REmhP1zK9+b1l7dxfFEHokbTLAmLAUAU9XYWn7k=",
+  "Source": "AcmePedidosAPI",
+  "BasePath": "_content/AcmePedidosAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
